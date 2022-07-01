@@ -1,0 +1,22 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#btn1
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 10px 9px 11px  red;
+    margin-top: 50px;
+}
+
